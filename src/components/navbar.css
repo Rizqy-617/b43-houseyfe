@@ -1,0 +1,31 @@
+.hover-search:hover {
+  background-color: grey !important;
+  transition-duration: 500ms;
+}
+
+.btn-custom {
+  background-color: #C4C4C440 !important;
+  border: none !important;
+  color: black !important;
+}
+
+.btn-custom:hover {
+  background-color: #5A57AB !important;
+  transition-duration: 500ms;
+  color: white !important;
+}
+
+.btn-transparent {
+  background-color: transparent !important;
+  border: none !important;
+  color: #A7A7A7 !important;
+}
+
+.btn-transparent:hover {
+  color: black !important;
+  transition: 500ms;
+}
+
+.bg-custom {
+  background-color: #A7A7A7 !important;
+}
